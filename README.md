@@ -3,7 +3,7 @@
 I'm a software developer (in training) and electronics guy for the [WWU Racing Formula SAE team](https://wwuracing.com).
 
 - 🛠 I'm currently working on...
-  * A computer science degree
+  * A Computer Science degree at Western Washington University
   * Converting a 70s Browning road bike into an ebike
   * Building an electric racecar with the WWU Racing Formula SAE team
   * Making a command–line calculator that is actually usable
